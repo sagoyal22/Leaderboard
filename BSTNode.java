@@ -1,4 +1,3 @@
-// DO NOT SUBMIT THIS FILE TO GRADESCOPE
 
 /**
  * Generic class implementing a Binary Node of a Binary Search Tree (BST)
