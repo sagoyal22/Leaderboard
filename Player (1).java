@@ -24,7 +24,6 @@ public class Player implements Comparable<Player> {
     return this.name.compareTo(other.name);
   }
 
-  ////////////////////////////////// The remainder of this class is provided.
 
   /** The player's name */
   private String name;
