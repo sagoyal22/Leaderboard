@@ -1,13 +1,4 @@
-//////////////// FILE HEADER ////////////////////////////////////////////////
-//
-// Title:Leaderboard
-// Course: CS 300 Fall 2024
-//
-// Author: saniya goyal
-// Email: sagoyal@wisc.edu
-// Lecturer: (Blerina Gkotse)
-//
-///////////////////////////////////////////////////////////////////////////////
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
