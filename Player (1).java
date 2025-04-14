@@ -1,11 +1,4 @@
-// TODO: File header
 
-/**
- * This class models a Player for the CS300 Leaderboard project.
- * 
- * You must complete the compareTo() method in this file (and modify the class header as necessary)
- * and submit the completed file to Gradescope for credit.
- */
 public class Player implements Comparable<Player> {
 
 
